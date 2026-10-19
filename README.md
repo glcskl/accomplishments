@@ -103,7 +103,7 @@ A personal record of hackathon results, olympiad and competition placements, sci
 
 - **Silver** — XXI Pskov Sailing Regatta, 12–16.06.2025, helmsman of the OPEN-800 yacht «Акварель».
 - **Bronze** — XX Pskov Sailing Regatta, 11–17.06.2024.
-- **Medalist** of all-Russian and regional sailing competitions; about 10 years in the sport.
+- **Medalist** of all-Russian and regional sailing competitions.
 
 ## Verification
 
