@@ -1,15 +1,20 @@
-# accomplishments — achievements and research profile
+<h1 align="center">accomplishments</h1>
 
-A personal record of hackathon results, olympiad and competition placements, scientific publications and organisational roles — one page instead of a folder of diplomas. Each entry that has a public source is linked to the official university page or repository it comes from.
+<p align="center">
+  <b>Токарь Глеб Максимович</b><br>
+  22.07.2005 · 4th year · «Электронная экономика» (программист-экономист) · VSTU · гр. ЭЭб-4
+</p>
 
-**Токарь Глеб Максимович** · 22.07.2005 · 4th year, «Электронная экономика» (программист-экономист), VSTU, group ЭЭб-4.
-
-<p>
+<p align="center">
   <a href="https://github.com/glcskl"><img src="https://img.shields.io/badge/GitHub-glcskl-181717?logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/glebentired"><img src="https://img.shields.io/badge/Telegram-%40glebentired-181717?logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://workdo.ru"><img src="https://img.shields.io/badge/workdo.ru-181717" alt="workdo.ru"></a>
   <a href="https://vstu.by"><img src="https://img.shields.io/badge/%D0%92%D0%93%D0%A2%D0%A3-%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0-181717" alt="VSTU"></a>
 </p>
+
+---
+
+A personal record of hackathon results, olympiad and competition placements, scientific publications and organisational roles — one page instead of a folder of diplomas. Each entry that has a public source is linked to the official university page or repository it comes from.
 
 ## Overview
 
