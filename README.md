@@ -89,7 +89,6 @@ A personal record of hackathon results, olympiad and competition placements, sci
 
 | Repository | Description |
 | --- | --- |
-| [workworkdo](https://github.com/glcskl/workworkdo) | Documentation for **WorkDo**, the SaaS product: staff, timesheets, shifts, payroll, finance and budget, roles and audit |
 | [hackathontbankminsk](https://github.com/glcskl/hackathontbankminsk) | T-Bank hackathon solution (1st place): React Native, FastAPI, PostgreSQL, Docker |
 | [hackathonspacemtsminsk](https://github.com/glcskl/hackathonspacemtsminsk) | Space Hackathon with MTS finalist: Java, Android |
 | [hackathongreatstoneminsk](https://github.com/glcskl/hackathongreatstoneminsk) | Telegram Mini App for industrial safety |
