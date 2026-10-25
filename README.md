@@ -100,8 +100,8 @@ A personal record of hackathon results, olympiad and competition placements, sci
 | [hackathongreatstoneminsk](https://github.com/glcskl/hackathongreatstoneminsk) | Telegram Mini App for industrial safety |
 | [hackathoninnowisegomel](https://github.com/glcskl/hackathoninnowisegomel) | Learning gamification app: Java, Kotlin, Android |
 | [Mtsclouds](https://github.com/glcskl/Mtsclouds) | Multi-tenant IaaS cloud platform prototype: React, TypeScript, Docker |
-| [vstu-schedule-bot](https://github.com/glcskl/vstu-schedule-bot) | VSTU timetable bot for students (Python) |
-| [photo-text-bot](https://github.com/glcskl/photo-text-bot) / [fitness-stars-bot](https://github.com/glcskl/fitness-stars-bot) | Telegram services: styled text on photos, fitness-content monetisation |
+| [tg1](https://github.com/glcskl/tg1) | VSTU timetable bot for students (Python) |
+| [tg3](https://github.com/glcskl/tg3) / [tg4](https://github.com/glcskl/tg4) | Telegram services: styled text on photos, fitness-content monetisation |
 | [pitchdesk](https://github.com/glcskl/pitchdesk) | Self-contained offline startup pitch deck |
 | [iaai](https://github.com/glcskl/iaai) | Neural network written from scratch without frameworks (Python) |
 
