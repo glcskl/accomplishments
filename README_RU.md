@@ -72,8 +72,8 @@
 | [hackathongreatstoneminsk](https://github.com/glcskl/hackathongreatstoneminsk) | Telegram Mini App для промышленной безопасности |
 | [hackathoninnowisegomel](https://github.com/glcskl/hackathoninnowisegomel) | Приложение для геймификации обучения — Java, Kotlin, Android |
 | [Mtsclouds](https://github.com/glcskl/Mtsclouds) | Прототип многотенантного IaaS — React, TypeScript, Docker |
-| [tg1](https://github.com/glcskl/tg1) | Бот расписания ВГТУ для студентов (Python) |
-| [tg3](https://github.com/glcskl/tg3), [tg4](https://github.com/glcskl/tg4) | Telegram-сервисы |
+| [vstu-schedule-bot](https://github.com/glcskl/vstu-schedule-bot) | Бот расписания ВГТУ для студентов (Python) |
+| [photo-text-bot](https://github.com/glcskl/photo-text-bot), [fitness-stars-bot](https://github.com/glcskl/fitness-stars-bot) | Telegram-сервисы |
 | [pitchdesk](https://github.com/glcskl/pitchdesk) | Оффлайн-презентация стартап-проекта |
 | [iaai](https://github.com/glcskl/iaai) | Нейросеть с нуля без фреймворков (Python) |
 
@@ -92,4 +92,4 @@
 
 ## Файлы
 
-- [accomplishments.pdf](accomplishments.pdf) — полная версия в PDF
+- [Gleb-Tokar-accomplishments.pdf](https://github.com/glcskl/accomplishments/releases/download/certificates/Gleb-Tokar-accomplishments.pdf) — полная версия портфолио в PDF (44 МБ), хранится в Release репозитория

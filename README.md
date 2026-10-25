@@ -10,6 +10,7 @@
   <a href="https://t.me/glebentired"><img src="https://img.shields.io/badge/Telegram-%40glebentired-181717?logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://workdo.ru"><img src="https://img.shields.io/badge/workdo.ru-181717" alt="workdo.ru"></a>
   <a href="https://vstu.by"><img src="https://img.shields.io/badge/VSTU-Electronic%20Economics-181717" alt="VSTU"></a>
+  <a href="https://github.com/glcskl/accomplishments/releases/download/certificates/Gleb-Tokar-accomplishments.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF%20download-181717" alt="PDF portfolio"></a>
 </p>
 
 ---
@@ -99,8 +100,8 @@ A personal record of hackathon results, olympiad and competition placements, sci
 | [hackathongreatstoneminsk](https://github.com/glcskl/hackathongreatstoneminsk) | Telegram Mini App for industrial safety |
 | [hackathoninnowisegomel](https://github.com/glcskl/hackathoninnowisegomel) | Learning gamification app: Java, Kotlin, Android |
 | [Mtsclouds](https://github.com/glcskl/Mtsclouds) | Multi-tenant IaaS cloud platform prototype: React, TypeScript, Docker |
-| [tg1](https://github.com/glcskl/tg1) | VSTU timetable bot for students (Python) |
-| [tg3](https://github.com/glcskl/tg3) / [tg4](https://github.com/glcskl/tg4) | Telegram services: styled text on photos, fitness-content monetisation |
+| [vstu-schedule-bot](https://github.com/glcskl/vstu-schedule-bot) | VSTU timetable bot for students (Python) |
+| [photo-text-bot](https://github.com/glcskl/photo-text-bot) / [fitness-stars-bot](https://github.com/glcskl/fitness-stars-bot) | Telegram services: styled text on photos, fitness-content monetisation |
 | [pitchdesk](https://github.com/glcskl/pitchdesk) | Self-contained offline startup pitch deck |
 | [iaai](https://github.com/glcskl/iaai) | Neural network written from scratch without frameworks (Python) |
 
@@ -111,6 +112,8 @@ A personal record of hackathon results, olympiad and competition placements, sci
 - **Medalist** of all-Russian and regional sailing competitions.
 
 ## Verification
+
+A complete PDF portfolio (44 MB) is available as a [release download](https://github.com/glcskl/accomplishments/releases/download/certificates/Gleb-Tokar-accomplishments.pdf).
 
 Achievements are confirmed by diplomas and certificates (copies kept at the department) or by official university publications:
 [vstu.by](https://vstu.by), [rep.vstu.by](https://rep.vstu.by), [ef.vstu.by](https://ef.vstu.by),
